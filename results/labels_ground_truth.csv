@@ -1,0 +1,71 @@
+﻿filename,leather_type,label,defect_present,defects_raw
+BO001.tif,BO,1,True,color; grain off; cut; folding marks; (pin) holes
+BO002.tif,BO,2,True,cuts; wrinkles; folding marks
+BO003.tif,BO,3,True,scars/lines; grain off; color; (pin) holes; 
+BO004.tif,BO,4,True,scars/lines; grain off; cuts; wrinkles/creases; 
+BO005.tif,BO,5,True,cuts
+BO006.tif,BO,6,True,grain off; damages *; loose grain; *
+BO007.tif,BO,7,True,wrinkles; (pin) holes; cut; damages when
+BO008.tif,BO,8,True,wrinkles/creases; cut; skinning in the
+BO009.tif,BO,9,True,folding marks; (pin) holes; grain off; slaughterhouse
+BO010.tif,BO,10,True,color; scars/lines; tačkica
+BO011.tif,BO,11,True,folding marks; scars/lines; wrinkles; (pin) hole
+BO012.tif,BO,12,True,cuts; folding marks; scars/lines; (pin) holes
+BO013.tif,BO,13,True,wrinkles; scars/lines; (pin) holes
+BO014.tif,BO,14,True,cuts; (pin) hole
+BO015.tif,BO,15,True,grain off; line; (pin) hole; grain../brand marks
+BO016.tif,BO,16,True,scar/line; cut; wrinkles/creases; folding/wrinkles/creases
+BO017.tif,BO,17,True,folding marks; wrinkles/creases; (pin) holes; scars/lines/cuts
+BO018.tif,BO,18,True,loose grain; scars/lines; (pin) holes; wrinkles; (pin) holes/damages*
+BO019.tif,BO,19,True,scars/lines; cuts; (pin) holes; grain off; color
+BO020.tif,BO,20,True,wrinkles/creases; grain off
+BO021.tif,BO,21,True,cut; (pin) holes
+BO022.tif,BO,22,True,folding marks; cut; (pin) hole
+BO023.tif,BO,23,False,defect free
+BO024.tif,BO,24,True,folding marks; wrinkles; (pin) holes
+BO025.tif,BO,25,True,wrinkles; (pin) holes
+BO026.tif,BO,26,True,color; (pin) holes
+BO027.tif,BO,27,True,wrinkles
+BO028.tif,BO,28,True,grain off; folding marks; cut
+BO029.tif,BO,29,True,folding marks; wrinkles
+BO030.tif,BO,30,True,wrinkles/creases; color; folding marks
+BO031.tif,BO,31,True,grain off; wrinkles
+BO032.tif,BO,32,True,folding marks; color; wrinkles/creases
+BO033.tif,BO,33,True,folding marks; color; grain off; scars/lines; wrinkles; (pin) hole
+BO034.tif,BO,34,True,color; grain off; folding mark /wrinkle
+BO035.tif,BO,35,True,color; folding marks; wrinkles/creases; (pin) holes
+BO036.tif,BO,36,True,folding marks; (pin) hole
+BO037.tif,BO,37,True,grain off; wrinkles
+BO038.tif,BO,38,True,"wrinkles/creases; all damaged, too many wrinkles"
+BO039.tif,BO,39,True,folding marks; loose grain; (pin) hole
+BO040.tif,BO,40,True,wrinkles
+BO041.tif,BO,41,True,(pin) holes
+BO042.tif,BO,42,True,folding marks; grain off; wrinkles/creases; (pin) holes
+BO043.tif,BO,43,True,folding marks; cut; color; loose grain; wrinkles
+BO044.tif,BO,44,True,cut; wrinkles
+BO045.tif,BO,45,True,color; wrinkles/creases
+BO046.tif,BO,46,True,folding marks; wrinkles/creases; (pin) hole
+BO047.tif,BO,47,False,defect free
+BO048.tif,BO,48,True,folding marks; grain off
+BO049.tif,BO,49,True,folding marks; cuts; wrinkles/creases; loose grain
+BO050.tif,BO,50,True,grain off; wrinkles/creases
+EL001.tif,EL,1,True,wrinkles/creases; cut; grain off
+EL002.tif,EL,2,True,cut; pin holes; grain off; wrinkles
+EL003.tif,EL,3,True,grain off *; (pin) holes; color
+EL004.tif,EL,4,True,(pin) holes
+EL005.tif,EL,5,True,color; wrinkles; (pin) holes
+EL006.tif,EL,6,True,folding marks; growth marks; wrinkles/creases; color
+EL007.tif,EL,7,True,grain off; wrinkles; folding marks; the marker color used for
+EL008.tif,EL,8,True,grain off; wrinkles; loose grain; (pin) holes; color; defect annotation on the sample.
+EL009.tif,EL,9,True,cut; wrinkles; lines; (pin) holes
+EL010.tif,EL,10,True,color; wrinkles; loose grain; (pin) holes
+EL011.tif,EL,11,True,scars/lines/cuts; folding marks; (pin) holes; grain../brand marks/growth marks
+EL012.tif,EL,12,True,scars/lines/cuts; (pin) holes; wrinkles; folding marks/wrinkles/creases
+EL013.tif,EL,13,True,color; grain off; scars/lines/cuts; wrinkles; (pin) holes; scars/lines/cuts
+EL014.tif,EL,14,True,color; (pin) holes; (pin) holes
+EL015.tif,EL,15,True,scars/lines; (pin) holes; color
+EL016.tif,EL,16,True,(pin) holes; scars/lines/cuts; color; grain off; wrinkles
+EL017.tif,EL,17,True,lines/scars; color; (pin) holes; wrinkles
+EL018.tif,EL,18,True,grain off; color; lines/scars; (pin) holes; wrinkles
+EL019.tif,EL,19,True,grain off; color; (pin) holes; wrinkles; lines/scars
+EL020.tif,EL,20,True,grain off; color; (pin) holes; folding marks

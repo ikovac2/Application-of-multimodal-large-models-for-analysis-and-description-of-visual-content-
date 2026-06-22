@@ -1,0 +1,209 @@
+﻿filename,leather_type,gt_defect_present,gt_defects,llava7b_defect_present,llava7b_defect_type,llava7b_severity,llava7b_description,llava7b_raw_response,processing_time_s
+BO001.tif,BO,True,color; grain off; cut; folding marks; (pin) holes,True,color,,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: color",75.1
+BO002.tif,BO,True,cuts; wrinkles; folding marks,True,pin hole,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: pin hole
+SEVERITY: Minor",63.5
+BO003.tif,BO,True,scars/lines; grain off; color; (pin) holes; the marker color used for,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO004.tif,BO,True,scars/lines; grain off; cuts; wrinkles/creases; defect annotation on the sample.,False,none,None,"The image shows a piece of leather with no visible defects. It appears to be in good condition, without any color variations, grain issues, folding marks, pin holes, cuts, or wrinkles that are noticeable from the given image.","DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None
+DESCRIPTION: The image shows a piece of leather with no visible defects. It appears to be in good condition, without any color variations, grain issues, folding marks, pin holes, cuts, or wrinkles that are noticeable from the given image.",73.9
+BO005.tif,BO,True,cuts,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.3
+BO006.tif,BO,True,grain off; damages *; loose grain; *,False,None,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: None
+SEVERITY: None",63.9
+BO007.tif,BO,True,wrinkles; (pin) holes; cut; damages when,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO008.tif,BO,True,wrinkles/creases; cut; skinning in the,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.4
+BO009.tif,BO,True,folding marks; (pin) holes; grain off; slaughterhouse,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO010.tif,BO,True,color; scars/lines; tačkica,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO011.tif,BO,True,folding marks; scars/lines; wrinkles; (pin) hole,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO012.tif,BO,True,cuts; folding marks; scars/lines; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.4
+BO013.tif,BO,True,wrinkles; scars/lines; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO014.tif,BO,True,cuts; (pin) hole,True,wrinkles,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: wrinkles
+SEVERITY: Minor",63.6
+BO015.tif,BO,True,grain off; line; (pin) hole; grain../brand marks,False,None,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: None
+SEVERITY: None",63.5
+BO016.tif,BO,True,scar/line; cut; wrinkles/creases; folding/wrinkles/creases,False,,,,DEFECT_PRESENT: No,60.7
+BO017.tif,BO,True,folding marks; wrinkles/creases; (pin) holes; scars/lines/cuts,False,None,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: None
+SEVERITY: None",63.2
+BO018.tif,BO,True,loose grain; scars/lines; (pin) holes; wrinkles; (pin) holes/damages*,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.7
+BO019.tif,BO,True,scars/lines; cuts; (pin) holes; grain off; color,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.3
+BO020.tif,BO,True,wrinkles/creases; grain off,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.8
+BO021.tif,BO,True,cut; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.0
+BO022.tif,BO,True,folding marks; cut; (pin) hole,False,None,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: None
+SEVERITY: None",64.0
+BO023.tif,BO,False,defect free,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.4
+BO024.tif,BO,True,folding marks; wrinkles; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO025.tif,BO,True,wrinkles; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.1
+BO026.tif,BO,True,color; (pin) holes,True,cuts_scars,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: cuts_scars
+SEVERITY: Minor",64.0
+BO027.tif,BO,True,wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.4
+BO028.tif,BO,True,grain off; folding marks; cut,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.9
+BO029.tif,BO,True,folding marks; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.3
+BO030.tif,BO,True,wrinkles/creases; color; folding marks,True,cuts_scars,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: cuts_scars
+SEVERITY: Minor",64.7
+BO031.tif,BO,True,grain off; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.3
+BO032.tif,BO,True,folding marks; color; wrinkles/creases,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.9
+BO033.tif,BO,True,folding marks; color; grain off; scars/lines; wrinkles; (pin) hole,True,cuts_scars,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: cuts_scars
+SEVERITY: Minor",64.1
+BO034.tif,BO,True,color; grain off; folding mark /wrinkle,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.7
+BO035.tif,BO,True,color; folding marks; wrinkles/creases; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.7
+BO036.tif,BO,True,folding marks; (pin) hole,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.7
+BO037.tif,BO,True,grain off; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.6
+BO038.tif,BO,True,"wrinkles/creases; all damaged, too many wrinkles",False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.7
+BO039.tif,BO,True,folding marks; loose grain; (pin) hole,True,color,,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: color",62.5
+BO040.tif,BO,True,wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO041.tif,BO,True,(pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.3
+BO042.tif,BO,True,folding marks; grain off; wrinkles/creases; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+BO043.tif,BO,True,folding marks; cut; color; loose grain; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.3
+BO044.tif,BO,True,cut; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO045.tif,BO,True,color; wrinkles/creases,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.4
+BO046.tif,BO,True,folding marks; wrinkles/creases; (pin) hole,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO047.tif,BO,False,defect free,False,None,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: None
+SEVERITY: None",64.0
+BO048.tif,BO,True,folding marks; grain off,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.2
+BO049.tif,BO,True,folding marks; cuts; wrinkles/creases; loose grain,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.9
+BO050.tif,BO,True,grain off; wrinkles/creases,False,none,None,"The image shows a close-up view of an object with a textured surface that appears to be leather. There are no visible defects, such as color variations, grain irregularities, folding marks, pin holes, cuts or scars, wrinkles, loose grains, or other types of defects on this leather sample image.","DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None
+DESCRIPTION: The image shows a close-up view of an object with a textured surface that appears to be leather. There are no visible defects, such as color variations, grain irregularities, folding marks, pin holes, cuts or scars, wrinkles, loose grains, or other types of defects on this leather sample image.",78.1
+EL001.tif,EL,True,wrinkles/creases; cut; grain off,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.5
+EL002.tif,EL,True,cut; pin holes; grain off; wrinkles,True,loose_grain,Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: loose_grain
+SEVERITY: Minor",64.3
+EL003.tif,EL,True,grain off *; (pin) holes; color,True,pin_holes,Minor,The image shows a leather surface with multiple pin holes.,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: pin_holes
+SEVERITY: Minor
+DESCRIPTION: The image shows a leather surface with multiple pin holes.",67.5
+EL004.tif,EL,True,(pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.2
+EL005.tif,EL,True,color; wrinkles; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",63.7
+EL006.tif,EL,True,folding marks; growth marks; wrinkles/creases; color,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.3
+EL007.tif,EL,True,grain off; wrinkles; folding marks; the marker color used for,True,"wrinkles, loose_grain",Minor,,"DEFECT_PRESENT: Yes
+DEFECT_TYPE: wrinkles, loose_grain
+SEVERITY: Minor",65.6
+EL008.tif,EL,True,grain off; wrinkles; loose grain; (pin) holes; color; defect annotation on the sample.,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.4
+EL009.tif,EL,True,cut; wrinkles; lines; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.4
+EL010.tif,EL,True,color; wrinkles; loose grain; (pin) holes,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.8
+EL011.tif,EL,True,scars/lines/cuts; folding marks; (pin) holes; grain../brand marks/growth marks,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.6
+EL012.tif,EL,True,scars/lines/cuts; (pin) holes; wrinkles; folding marks/wrinkles/creases,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.3
+EL013.tif,EL,True,color; grain off; scars/lines/cuts; wrinkles; (pin) holes; scars/lines/cuts,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.5
+EL014.tif,EL,True,color; (pin) holes; (pin) holes,False,,,,DEFECT_PRESENT: No,61.3
+EL015.tif,EL,True,scars/lines; (pin) holes; color,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.0
+EL016.tif,EL,True,(pin) holes; scars/lines/cuts; color; grain off; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.8
+EL017.tif,EL,True,lines/scars; color; (pin) holes; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.2
+EL018.tif,EL,True,grain off; color; lines/scars; (pin) holes; wrinkles,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.7
+EL019.tif,EL,True,grain off; color; (pin) holes; wrinkles; lines/scars,False,none,None,,"DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None",64.4
+EL020.tif,EL,True,grain off; color; (pin) holes; folding marks,False,none,None,"The image shows a uniform, dark-colored leather surface without any visible defects or blemishes.","DEFECT_PRESENT: No
+DEFECT_TYPE: none
+SEVERITY: None
+DESCRIPTION: The image shows a uniform, dark-colored leather surface without any visible defects or blemishes.",69.3
